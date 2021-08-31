@@ -1,0 +1,8 @@
+# Local Netlify folder
+.netlify
+
+node_modules/
+.cache/
+public
+
+.nyc_output
